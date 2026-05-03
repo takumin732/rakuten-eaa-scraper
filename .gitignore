@@ -1,0 +1,19 @@
+# ログインセッション情報（重要：公開禁止）
+rakuten_user_data/
+
+# 実行結果
+*.xlsx
+*.csv
+
+# Python関係
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# その他
+.DS_Store
+Thumbs.db
